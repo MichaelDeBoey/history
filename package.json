@@ -64,6 +64,9 @@
     "typescript": "^4.3.5",
     "webpack": "^3.12.0"
   },
+  "engines": {
+    "node": ">=14"
+  },
   "filesize": {
     "build/history/history.production.min.js": {
       "none": "5.06 kB"
